@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "f648",
+      "f_name": "Javohir",
+      "l_name": "Jo'rayev",
+      "profession": "Dasturchi",
+      "age": 18,
+      "gender": "male"
+    }
+  ]
+}
